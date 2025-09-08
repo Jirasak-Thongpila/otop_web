@@ -402,13 +402,6 @@ temp/
 logs
 *.log
 
-# Build outputs
-statics/
-static_collected/
-assets/
-build/
-dist/
-
 # CSS and Sass
 *.css.map
 *.sass.map
